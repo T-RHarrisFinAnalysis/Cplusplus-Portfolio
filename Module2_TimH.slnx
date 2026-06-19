@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Module2_TimH.vcxproj" Id="7af800fc-04f3-4f7a-8d50-e21f5de1fc1f" />
+</Solution>
