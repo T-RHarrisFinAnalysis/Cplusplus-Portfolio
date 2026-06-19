@@ -1,0 +1,8 @@
+City           Celsius
+------------------------
+Miami          29.44
+Dallas         32.22
+Seattle        15.56
+Chicago        21.11
+Phoenix        37.78
+Boston         12.78

@@ -1,0 +1,6 @@
+Miami 85
+Dallas 90
+Seattle 60
+Chicago 70
+Phoenix 100
+Boston 55
